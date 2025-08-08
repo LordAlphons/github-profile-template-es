@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alfonso Garrido
 
-✏️ Soy un **Profesional en transición hacia DevOps y Cloud**, con formación en **Full Stack Python** y especialización en **automatización, infraestructura como código y monitoreo continuo**. Me apasiona integrar teoría y práctica en entregables técnicos de alto nivel, priorizando la excelencia visual, comunicacional y funcional.
+Soy un **Profesional en transición hacia DevOps y Cloud**, con formación en **Full Stack Python** y especialización en **automatización, infraestructura como código y monitoreo continuo**. Me apasiona integrar teoría y práctica en entregables técnicos de alto nivel, priorizando la excelencia visual, comunicacional y funcional.
 
 Actualmente estoy enfocado en el desarrollo de soluciones con **Terraform, AWS, Kubernetes y CI/CD**, explorando herramientas colaborativas e inteligencia artificial para potenciar procesos técnicos y presentaciones profesionales.
 
@@ -9,6 +9,7 @@ Actualmente estoy enfocado en el desarrollo de soluciones con **Terraform, AWS, 
 ### 🧑‍💻 Lenguajes de Programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### 🎨 Desarrollo Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
